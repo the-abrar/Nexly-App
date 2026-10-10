@@ -1,3 +1,4 @@
+<img width="220" height="55" alt="Samsung Galaxy S21 Ultra Screenshot 1 (1)" src="https://github.com/user-attachments/assets/1288a0d6-52f3-42a7-83a5-9557ad1790af" />
 # ✨ Nexly CRM
 
 ### Your Work, Your Way.
