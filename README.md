@@ -1,5 +1,3 @@
-# Nexly-App
-
 <div align="center">
 
 # ✨ Nexly CRM
