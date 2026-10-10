@@ -1,4 +1,3 @@
-<img width="220" height="55" alt="Samsung Galaxy S21 Ultra Screenshot 1 (1)" src="https://github.com/user-attachments/assets/1288a0d6-52f3-42a7-83a5-9557ad1790af" />
 # ✨ Nexly CRM
 
 ### Your Work, Your Way.
@@ -173,7 +172,4 @@ Explore the Nexly interface.
 > **Tip:** Upload your screenshots to a folder named `screenshots` in your GitHub repository, then replace the placeholders with the actual image paths.
 
 Example:
-
-```markdown
-<img width="220" height="55" alt="Samsung Galaxy S21 Ultra Screenshot 1 (1)" src="https://github.com/user-attachments/assets/2b809933-d945-4e69-92da-639d6a13c8ba" /><div align="center">
 
