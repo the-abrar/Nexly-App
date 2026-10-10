@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1620" height="2880" alt="Samsung Galaxy S21 Ultra Screenshot 1 (1)" src="https://github.com/user-attachments/assets/2b809933-d945-4e69-92da-639d6a13c8ba" /><div align="center">
 
 # ✨ Nexly CRM
 
@@ -176,4 +176,5 @@ Explore the Nexly interface.
 Example:
 
 ```markdown
-<img src="https://github.com/the-abrar/Nexly-App/blob/main/Samsung%20Galaxy%20S21%20Ultra%20Screenshot%201%20(1).png" width="250" alt="Nexly Home Screen"/>
+<img width="1620" height="2880" alt="Samsung Galaxy S21 Ultra Screenshot 1 (1)" src="https://github.com/user-attachments/assets/89d1e0bb-d890-42f7-b768-90ac570f1c4b" />
+
