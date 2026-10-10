@@ -176,4 +176,4 @@ Explore the Nexly interface.
 Example:
 
 ```markdown
-<img src="screenshots/home.png" width="250" alt="Nexly Home Screen"/>
+<img src="[screenshots/home.png](https://github.com/the-abrar/Nexly-App/blob/main/Samsung%20Galaxy%20S21%20Ultra%20Screenshot%201%20(1).png)" width="250" alt="Nexly Home Screen"/>
