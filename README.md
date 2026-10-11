@@ -38,6 +38,14 @@ Manage your clients, tasks, meetings, notes, documents, and finances — all in 
 
 **Nexly CRM** is a modern native Android application designed to simplify client and business management.
 
+<p align="center">
+  <img
+    src="./Samsung%20Galaxy%20S21%20Ultra%20Screenshot%201%20(2).png"
+    alt="Nexly app running on a Samsung Galaxy phone"
+    width="300"
+  />
+</p>
+
 Whether you are a freelancer, independent developer, small business owner, or service provider, Nexly helps you organize your daily workflow in one place.
 
 From managing client profiles and scheduling meetings to tracking payments and reviewing monthly financial summaries, Nexly brings essential business tools together in a clean, professional interface.
