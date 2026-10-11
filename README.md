@@ -23,7 +23,8 @@ Manage your clients, tasks, meetings, notes, documents, and finances — all in 
 <!-- APP DOWNLOAD BUTTON -->
 <a href="YOUR_APK_DOWNLOAD_LINK">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NEXLY-Get%20Android%20APK-black?style=for-the-badge&logo=android&logoColor=white" alt="Download Nexly APK](https://github.com/the-abrar/Nexly-App/releases/download/v1.0.0/Nexly.apk)"/>
-</a>
+</a><img width="1620" height="2880" alt="Samsung Galaxy S21 Ultra Screenshot 2" src="https://github.com/user-attachments/assets/4c63ef4d-f1ae-4f79-b586-146c47606b17" />
+
 
 <br/>
 <br/>
